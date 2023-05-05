@@ -1,0 +1,10 @@
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\bin\Debug\prakt15_2.exe.config
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\bin\Debug\prakt15_2.exe
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\bin\Debug\prakt15_2.pdb
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.Form1.resources
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.Properties.Resources.resources
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.exe
+C:\Users\305-5\Desktop\Шурков\prakt15\prakt15_2\obj\Debug\prakt15_2.pdb
